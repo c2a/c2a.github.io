@@ -8,6 +8,8 @@ description: How I found a ‘should be deleted’ content that disclose some se
 
 _Tl;dr : how i found a ‘should be deleted’ content that disclose some sensitive information and vulnerable to reflected XSS on Tokopedia’s website._
 
+...
+
 Greetings.
 
 On my previous write-up about subdomain takeover on Tokopedia, I mentioned that i also found another interesting subdomain, one of them is _accounts-REDACTED.tokopedia.com_.

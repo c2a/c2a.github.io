@@ -8,6 +8,8 @@ description: A unique high severity misconfiguration I found on Bukalapak websit
 
 _Tl;dr : a unique high severity misconfiguration I found on Bukalapak website that lead to Subfolder takeover and stored XSS, by only inspecting an HTML element on their webpage._
 
+...
+
 Greetings.
 
 Bukalapak is one of the biggest online marketplace and “unicorn” startup located in Indonesia. One day when I was taking a break and checking their website to buy something, I noticed that they held a Bug Bounty Program and I think it would be cool if I could carve my name on their lovely “[**Wall of fame**](https://bukalapak.github.io/bukabounty/)”.

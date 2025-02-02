@@ -8,6 +8,8 @@ description: "A good faith powered report of subdomain takeover that ends up wit
 
 _Tl;dr : a good faith powered report of subdomain takeover that ends up with a bounty, even though the company itself doesn’t have a Bug Bounty Program._
 
+...
+
 Greetings.
 
 It all started with a Linkedin Connection Request.

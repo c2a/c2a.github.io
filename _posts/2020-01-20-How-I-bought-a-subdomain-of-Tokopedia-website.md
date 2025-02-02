@@ -8,6 +8,8 @@ description: A subdomain of tokopedia’s website is pointed to an expired Top-L
 
 _Tl;dr :_ _a subdomain of tokopedia’s website is pointed to an expired Top-Level-Domain available to buy, so obviously I go ahead and buy it._
 
+...
+
 Greetings.
 
 When digging some old emails, i found one of my findings on tokopedia.com, and I decided to make a write-up about it. Tokopedia is one of the few company from Indonesia, that host their own public Bug Bounty Program. You can read the rules and details here: [https://github.com/tokopedia/Bug-Bounty](https://github.com/tokopedia/Bug-Bounty).
